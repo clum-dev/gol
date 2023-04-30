@@ -1,0 +1,4 @@
+src gol.c using
+    clum-lib/file.c
+    clum-lib/strings.c
+    clum-lib/errors.c
